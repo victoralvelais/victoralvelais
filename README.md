@@ -11,7 +11,7 @@
 
 - 👯 Collaborating on [Eight or Infinity](https://eightorinfinity.com)
 
-- 🏗️ Also building **an alternative CMS**
+- 🏗️ Also building **an alternative CMS** with Discord & Notion
 
 - ⚡ Fun fact **I'm secretly amazing**
 
